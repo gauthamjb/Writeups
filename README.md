@@ -1,3 +1,3 @@
 # Writeups
 - - - 
-### [RTL-SDR](Writeups/RTL-SDR)
+### [RTL-SDR](https://github.com/gauthamjb/Writeups/blob/master/RTL-SDR.md)
